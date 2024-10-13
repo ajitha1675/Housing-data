@@ -4,7 +4,7 @@ FEATURES:
 
 1.longitude:A measure of distance a house is located horizontally that is from west to east,a higher value is further towards west.Statistically it comes under numerical data type, i.e.,Continuous data.
 
-2.latitude:A measure of distance a house is located vertically that is towards north,a higher value is further towards north.Statistically it comes under numerical data type, i.e.,Continuous data
+2.latitude:A measure of distance a house is located vertically that is towards north,a higher value is further towards north. Statistically it comes under numerical data type, i.e.,Continuous data
 
 3.housing_median_age:It is Median age of a house.Statistically it is of quantitative datatype,i.e.,Continuous data.
 
